@@ -2,8 +2,8 @@
 1. Github 找到ssr_subscrible_tool项目，将SSR链接写入note.txt文件， commit changes
 2. netlify 点击New Site from Git爬取github内容找到ssr_subscrible_tool
     Build Command 输入 npm run build
-    Publish Directory 输入 dist
-    Deploy site
+    Publish Directory 输入 dist,
+    最后Deploy site得到订阅链接
 
 Good luck, guys!
 
